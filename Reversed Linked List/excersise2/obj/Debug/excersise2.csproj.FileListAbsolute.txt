@@ -1,0 +1,9 @@
+c:\users\sahba\documents\visual studio 2015\Projects\excersise2\excersise2\bin\Debug\excersise2.exe.config
+c:\users\sahba\documents\visual studio 2015\Projects\excersise2\excersise2\bin\Debug\excersise2.exe
+c:\users\sahba\documents\visual studio 2015\Projects\excersise2\excersise2\bin\Debug\excersise2.pdb
+c:\users\sahba\documents\visual studio 2015\Projects\excersise2\excersise2\obj\Debug\excersise2.csprojResolveAssemblyReference.cache
+c:\users\sahba\documents\visual studio 2015\Projects\excersise2\excersise2\obj\Debug\excersise2.exe
+c:\users\sahba\documents\visual studio 2015\Projects\excersise2\excersise2\obj\Debug\excersise2.pdb
+C:\Users\ICC\Documents\GIt HUB\projects\excersise2\excersise2\bin\Debug\excersise2.exe.config
+C:\Users\ICC\Documents\GIt HUB\projects\excersise2\excersise2\obj\Debug\excersise2.exe
+C:\Users\ICC\Documents\GIt HUB\projects\excersise2\excersise2\obj\Debug\excersise2.pdb
